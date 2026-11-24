@@ -6,8 +6,6 @@ function calculateDiscount(price, discount) {
 
   const result = price - discount;
 
- const unusedValue = 100;
-
     if (price != null) {
 
         if (discount > 0) {
