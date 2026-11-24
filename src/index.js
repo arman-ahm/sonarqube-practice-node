@@ -24,7 +24,7 @@ function calculateDiscount(price, discount) {
 
 function checkAdmin(user) {
 
-    if (user.isAdmin = true) {
+    if (user.isAdmin === true) {
         return "Admin access granted";
     }
 
