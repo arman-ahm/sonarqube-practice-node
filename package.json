@@ -1,0 +1,20 @@
+{
+  "name": "sonarqube-practice-node",
+  "version": "1.0.0",
+  "description": "Practice project for SonarQube code quality analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arman-ahm/sonarqube-practice-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arman-ahm/sonarqube-practice-node/issues"
+  },
+  "homepage": "https://github.com/arman-ahm/sonarqube-practice-node#readme"
+}
