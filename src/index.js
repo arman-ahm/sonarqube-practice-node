@@ -4,7 +4,7 @@ const password = "admin123";
 
 function calculateDiscount(price, discount) {
 
-    var result = price - discount;
+  const result = price - discount;
 
     var unusedValue = 100;
 
